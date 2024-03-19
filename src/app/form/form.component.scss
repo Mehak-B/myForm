@@ -1,0 +1,21 @@
+.personal-details{
+    display:flex;
+    gap:10px;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+
+
+
+    &__name{
+       display: flex;
+       flex-direction: column;
+
+    }
+}
+.educational-details{
+&__class{
+    border:1px solid red;
+}
+
+}
